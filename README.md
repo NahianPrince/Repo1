@@ -1,3 +1,7 @@
+ <a href="#">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodderPrince&layout=pie&theme=algolia" />
+  </a>
+
 
 <h2 align="left" style="padding-left: 20px; padding-bottom: 10px;">📊 GitHub Stats:</h2>
 <div align="center" style="font-size: xx-large;">
